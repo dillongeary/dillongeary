@@ -7,5 +7,5 @@ Fav Project : DnD Discord Bot <br>
 Fav Language : Haskell <br>
 Fav IDE : Jetbrains Fleet (VIM is a close second) <br>
 
-Currently Learning : Javascript
+Currently Learning : Javascript <br>
 Current Project : Personal Website
