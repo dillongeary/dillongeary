@@ -6,3 +6,6 @@ Interested in Software Engineering, Machine Learning and Data Science
 Fav Project : DnD Discord Bot <br>
 Fav Language : Haskell <br>
 Fav IDE : Jetbrains Fleet (VIM is a close second) <br>
+
+Currently Learning : Javascript
+Current Project : Personal Website
