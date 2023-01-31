@@ -7,5 +7,5 @@ Favourite Project : "Dungeons and Dragons" Discord Bot <br>
 Favourite Programming Language : Haskell <br>
 Favourite IDE : Jetbrains Fleet (VIM is a close second) <br>
 
-Currently Learning : ~~JavaScript~~ TypeScript and Tensorflow  <br>
-Current Projects : Personal Website, Machine Learning Model for Image Classification, and Block-Based language to assist in learning Haskell
+Currently Learning : ~~JavaScript~~ TypeScript  <br>
+Current Projects : Personal Website, and Block-Based language to assist in learning Haskell
