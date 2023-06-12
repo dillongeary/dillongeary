@@ -1,11 +1,12 @@
 # About Me!
 
 MEng Computer Science Student, currently enroled at the University of Southampton! <br>
-Interested in Software Engineering, Machine Learning and Data Science
+Interested in Software Engineering and Programming Language Design
 
-Favourite Project : "Dungeons and Dragons" Discord Bot <br>
+Favourite Project : A Functional Block-Based Programming Language <br>
 Favourite Programming Language : Haskell <br>
 Favourite IDE : Jetbrains Fleet (VIM is a close second) <br>
 
-Currently Learning : ~~JavaScript~~ TypeScript  <br>
-Current Projects : Personal Website, and Block-Based language to assist in learning Haskell
+Current Languages : Haskell, Java, Python and JavaScript
+Currently Learning : ??? <br>
+Current Projects : Lightweight and Boiler-Plate Free Discord Bot DSL
