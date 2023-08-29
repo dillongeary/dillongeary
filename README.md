@@ -24,7 +24,7 @@ Im Interested in Programming Language Development, Software Engineering and Full
 ---
 
 ### My Favourites and My Recents:<br>
-` Favourite Project :` [A Functional Block-Based Programming Language](https://github.com/dillongeary/SummerGDP) <br>
+` Favourite Project :` [A Functional Block-Based Programming Language](https://github.com/dillongeary/COMP3200Project) <br>
 `Favourite Language :` Haskell <br>
 `     Favourite IDE :` Jetbrain Fleet <br>
 `    Recent Project :` An Android App for the Secure Capture and Storage of Evidence Admissible in Court
