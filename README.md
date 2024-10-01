@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Dillon! :) 
 
-
-I'm a Freelance Software Developer, creating unique and thorough Web, Mobile and Desktop solutions. <br>
-The projects on this page cover community-focused applcations, bespoke programming langauges and exciting gaming tools! Feel free to have an explore below.
+I'm currently working as a Web Developer working with Django, maintaining and improving both client and internal facing web services. <br> This is my personal GitHub, and contains all of my passion projects and a few old university projects. <br> Youll mainly find projects involving community focused applications, programming langauges and tools for video games on this github!
 <br><br>
-Also, feel free to check out my other socials and website linked here:
+Feel free to check out my socials and website linked here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dillon-geary)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dillon.geary/)
