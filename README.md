@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dillon! :) 
 
-I'm currently working as a Web Developer working with Django, maintaining and improving both client and internal facing web services. <br> This is my personal GitHub, and contains all of my passion projects and a few old university projects. <br> Youll mainly find projects involving community focused applications, programming langauges and tools for video games on this github!
+I'm currently working as a Web Developer working with Django, maintaining and improving both client and internal facing web services. This is my personal GitHub, and contains all of my passion projects and a few old university projects. You'll mainly find projects involving community focused applications, programming langauges and tools for video games on this github!
 <br><br>
 Feel free to check out my socials and website linked here:
 
