@@ -1,42 +1,42 @@
-# 👋 Hi, I'm Dillon! :) 
+<h1 align="center">👋 Hey, I'm Dillon </h1>
+<p align="center">
+I am a Web Developer currently ~~battling~~ **working** with Django on my day to day, but here you'll find an array of personal projects! Most projects here are either personall passion projects or old university projects, mainly focusing on community applications, programming language exploration or game related tools! Feel free to have a dig around, or view my socials and websites linked below :)
+  </p>
+<p align="center" float="left">
+  <a href="https://www.linkedin.com/in/dillon-geary"><img src="https://img.shields.io/badge/Instagram-f4b8e4?style=for-the-badge&logo=instagram&logoColor=303446"></a>
+  <a href="https://www.linkedin.com/in/dillon-geary"><img src="https://img.shields.io/badge/Website-c0b1e9?style=for-the-badge&logo=internetcomputer&logoColor=303446"></a></b>
+  <a href="https://www.linkedin.com/in/dillon-geary"><img src="https://img.shields.io/badge/LinkedIn-8caaee?style=for-the-badge&logo=linkedin&logoColor=303446"></a>
+</p>
 
-I'm currently working as a Web Developer working with Django, maintaining and improving both client and internal facing web services. This is my personal GitHub, and contains all of my passion projects and a few old university projects. You'll mainly find projects involving community focused applications, programming langauges and tools for video games on this github!
-<br><br>
-Feel free to check out my socials and website linked here:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dillon-geary)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dillon.geary/)
-[![LinkedIn](https://img.shields.io/badge/website-%23B772E5.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.dillongeary.dev/)
-
-
----
-
-### My Current Skillset:<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-<br>
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/compose-57a871?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Java](https://img.shields.io/badge/java-%239c4b00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-<br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
-### My Favourites and My Recents:<br>
+<h3 align="center">My Techstack</h3>
+  <p float="left" align="center">
+    <img src="https://img.shields.io/badge/Python-e5c890?style=for-the-badge&logo=python&logoColor=303446)"/>
+    <img src="https://img.shields.io/badge/Django-a6d189?style=for-the-badge&logo=django&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/JavaScript-e5c890?style=for-the-badge&logo=javascript&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/MySQL-8caaee?style=for-the-badge&logo=mysql&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/HTML5-ea999c?style=for-the-badge&logo=html5&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/CSS3-8caaee?style=for-the-badge&logo=css3&logoColor=303446"/>
+    <br>
+    <img src="https://img.shields.io/badge/java-ef9f76?style=for-the-badge&logo=openjdk&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/Kotlin-ca9ee6?style=for-the-badge&logo=kotlin&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/Haskell-babbf1?style=for-the-badge&logo=haskell&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/Rust-ef9f76?style=for-the-badge&logo=rust&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/React-99d1db?style=for-the-badge&logo=react&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/Svelte-e78284?style=for-the-badge&logo=svelte&logoColor=303446"/>
+    <br>
+    <img src="https://img.shields.io/badge/Figma-ea999c?style=for-the-badge&logo=figma&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-8caaee.svg?style=for-the-badge&logo=intellij-idea&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/Android_Studio-a6d189?style=for-the-badge&logo=android-studio&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/Ubuntu-ef9f76?style=for-the-badge&logo=ubuntu&logoColor=303446"/>
+  </p>
+
+---
+<h3 align="center">Favourites and Recents</h3>
+
 ` Favourite Project :` [A Functional Block-Based Programming Language](https://github.com/dillongeary/COMP3200Project) <br>
 `Favourite Language :` Haskell <br>
 `     Favourite IDE :` Jetbrain Fleet <br>
 `    Recent Project :` A Rust Framework for Creating Event Driven Stage Machines
-
----
-<p align="center">
-  <img src="https://github-readme-stats-dillongeary.vercel.app/api/top-langs/?username=dillongeary&layout=compact&size_weight=0.7&count_weight=0.3&hide=html,css,typescript&theme=material-palenight"/>
-</p>
