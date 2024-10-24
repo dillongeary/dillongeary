@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey, I'm Dillon </h1>
 <p align="center">
-I am a Web Developer currently working with Django on my day to day, but here you'll find an array of personal projects! Most projects here are either personall passion projects or old university projects, mainly focusing on community applications, programming language exploration or game related tools! Feel free to have a dig around, or view my socials and websites linked below :)
+I am a Web Developer currently working with Django on my day to day, but here you'll find an array of personal projects! Most projects here are either personall passion projects or old university projects, mainly focusing on community applications, programming languages or tools for games! Feel free to have a dig around, or view my socials and websites linked below :)
   </p>
 <p align="center" float="left">
-  <a href="https://www.linkedin.com/in/dillon-geary"><img src="https://img.shields.io/badge/Instagram-f4b8e4?style=for-the-badge&logo=instagram&logoColor=303446"></a>
-  <a href="https://www.linkedin.com/in/dillon-geary"><img src="https://img.shields.io/badge/Website-c0b1e9?style=for-the-badge&logo=internetcomputer&logoColor=303446"></a></b>
+  <a href="https://www.instagram.com/dillon.geary/"><img src="https://img.shields.io/badge/Instagram-f4b8e4?style=for-the-badge&logo=instagram&logoColor=303446"></a>
+  <a href="https://www.dillongeary.dev/"><img src="https://img.shields.io/badge/Website-c0b1e9?style=for-the-badge&logo=internetcomputer&logoColor=303446"></a></b>
   <a href="https://www.linkedin.com/in/dillon-geary"><img src="https://img.shields.io/badge/LinkedIn-8caaee?style=for-the-badge&logo=linkedin&logoColor=303446"></a>
 </p>
 
