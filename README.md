@@ -16,7 +16,7 @@ I am a Web Developer currently working with Django on my day-to-day, but here yo
     <img src="https://img.shields.io/badge/Python-e5c890?style=for-the-badge&logo=python&logoColor=303446)"/>
     <img src="https://img.shields.io/badge/Django-a6d189?style=for-the-badge&logo=django&logoColor=303446"/>
     <img src="https://img.shields.io/badge/JavaScript-e5c890?style=for-the-badge&logo=javascript&logoColor=303446"/>
-    <img src="https://img.shields.io/badge/MySQL-8caaee?style=for-the-badge&logo=mysql&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/React-99d1db?style=for-the-badge&logo=react&logoColor=303446"/>
     <img src="https://img.shields.io/badge/HTML5-ea999c?style=for-the-badge&logo=html5&logoColor=303446"/>
     <img src="https://img.shields.io/badge/CSS3-8caaee?style=for-the-badge&logo=css3&logoColor=303446"/>
     <br>
@@ -24,8 +24,8 @@ I am a Web Developer currently working with Django on my day-to-day, but here yo
     <img src="https://img.shields.io/badge/Kotlin-ca9ee6?style=for-the-badge&logo=kotlin&logoColor=303446"/>
     <img src="https://img.shields.io/badge/Haskell-babbf1?style=for-the-badge&logo=haskell&logoColor=303446"/>
     <img src="https://img.shields.io/badge/Rust-ef9f76?style=for-the-badge&logo=rust&logoColor=303446"/>
-    <img src="https://img.shields.io/badge/React-99d1db?style=for-the-badge&logo=react&logoColor=303446"/>
     <img src="https://img.shields.io/badge/Svelte-e78284?style=for-the-badge&logo=svelte&logoColor=303446"/>
+    <img src="https://img.shields.io/badge/MySQL-8caaee?style=for-the-badge&logo=mysql&logoColor=303446"/>
     <br>
     <img src="https://img.shields.io/badge/Figma-ea999c?style=for-the-badge&logo=figma&logoColor=303446"/>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-8caaee.svg?style=for-the-badge&logo=intellij-idea&logoColor=303446"/>
