@@ -32,11 +32,3 @@ I am a Web Developer currently working with Django on my day-to-day, but here yo
     <img src="https://img.shields.io/badge/Android_Studio-a6d189?style=for-the-badge&logo=android-studio&logoColor=303446"/>
     <img src="https://img.shields.io/badge/Ubuntu-ef9f76?style=for-the-badge&logo=ubuntu&logoColor=303446"/>
   </p>
-
----
-<h3 align="center">Favourites and Recents</h3>
-
-` Favourite Project :` [A Functional Block-Based Programming Language](https://github.com/dillongeary/COMP3200Project) <br>
-`Favourite Language :` Haskell <br>
-`     Favourite IDE :` Jetbrain Fleet <br>
-`    Recent Project :` A Rust Framework for Creating Event Driven Stage Machines
